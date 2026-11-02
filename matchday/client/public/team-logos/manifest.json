@@ -1,0 +1,413 @@
+{
+  "sourceRepository": "https://github.com/luukhopman/football-logos",
+  "sourceRevision": "2a3978f0b4730645c205d855a4bda54c161183e9",
+  "season": "2026/27",
+  "logos": [
+    {
+      "leagueId": "bundesliga",
+      "code": "B04",
+      "file": "/team-logos/bundesliga/b04.png",
+      "source": "https://raw.githubusercontent.com/luukhopman/football-logos/2a3978f0b4730645c205d855a4bda54c161183e9/logos/Germany%20-%20Bundesliga/Bayer%2004%20Leverkusen.png",
+      "bytes": 20552
+    },
+    {
+      "leagueId": "bundesliga",
+      "code": "BMG",
+      "file": "/team-logos/bundesliga/bmg.png",
+      "source": "https://raw.githubusercontent.com/luukhopman/football-logos/2a3978f0b4730645c205d855a4bda54c161183e9/logos/Germany%20-%20Bundesliga/Borussia%20M%C3%B6nchengladbach.png",
+      "bytes": 9887
+    },
+    {
+      "leagueId": "bundesliga",
+      "code": "BVB",
+      "file": "/team-logos/bundesliga/bvb.png",
+      "source": "https://raw.githubusercontent.com/luukhopman/football-logos/2a3978f0b4730645c205d855a4bda54c161183e9/logos/Germany%20-%20Bundesliga/Borussia%20Dortmund.png",
+      "bytes": 16017
+    },
+    {
+      "leagueId": "bundesliga",
+      "code": "ELV",
+      "file": "/team-logos/bundesliga/elv.png",
+      "source": "https://raw.githubusercontent.com/luukhopman/football-logos/2a3978f0b4730645c205d855a4bda54c161183e9/logos/Germany%20-%20Bundesliga/SV%2007%20Elversberg.png",
+      "bytes": 16723
+    },
+    {
+      "leagueId": "bundesliga",
+      "code": "FCA",
+      "file": "/team-logos/bundesliga/fca.png",
+      "source": "https://raw.githubusercontent.com/luukhopman/football-logos/2a3978f0b4730645c205d855a4bda54c161183e9/logos/Germany%20-%20Bundesliga/FC%20Augsburg.png",
+      "bytes": 22691
+    },
+    {
+      "leagueId": "bundesliga",
+      "code": "FCB",
+      "file": "/team-logos/bundesliga/fcb.png",
+      "source": "https://raw.githubusercontent.com/luukhopman/football-logos/2a3978f0b4730645c205d855a4bda54c161183e9/logos/Germany%20-%20Bundesliga/Bayern%20Munich.png",
+      "bytes": 24597
+    },
+    {
+      "leagueId": "bundesliga",
+      "code": "FCU",
+      "file": "/team-logos/bundesliga/fcu.png",
+      "source": "https://raw.githubusercontent.com/luukhopman/football-logos/2a3978f0b4730645c205d855a4bda54c161183e9/logos/Germany%20-%20Bundesliga/1.FC%20Union%20Berlin.png",
+      "bytes": 9510
+    },
+    {
+      "leagueId": "bundesliga",
+      "code": "HSV",
+      "file": "/team-logos/bundesliga/hsv.png",
+      "source": "https://raw.githubusercontent.com/luukhopman/football-logos/2a3978f0b4730645c205d855a4bda54c161183e9/logos/Germany%20-%20Bundesliga/Hamburger%20SV.png",
+      "bytes": 11028
+    },
+    {
+      "leagueId": "bundesliga",
+      "code": "KOE",
+      "file": "/team-logos/bundesliga/koe.png",
+      "source": "https://raw.githubusercontent.com/luukhopman/football-logos/2a3978f0b4730645c205d855a4bda54c161183e9/logos/Germany%20-%20Bundesliga/1.FC%20K%C3%B6ln.png",
+      "bytes": 24913
+    },
+    {
+      "leagueId": "bundesliga",
+      "code": "M05",
+      "file": "/team-logos/bundesliga/m05.png",
+      "source": "https://raw.githubusercontent.com/luukhopman/football-logos/2a3978f0b4730645c205d855a4bda54c161183e9/logos/Germany%20-%20Bundesliga/1.FSV%20Mainz%2005.png",
+      "bytes": 18851
+    },
+    {
+      "leagueId": "bundesliga",
+      "code": "RBL",
+      "file": "/team-logos/bundesliga/rbl.png",
+      "source": "https://raw.githubusercontent.com/luukhopman/football-logos/2a3978f0b4730645c205d855a4bda54c161183e9/logos/Germany%20-%20Bundesliga/RB%20Leipzig.png",
+      "bytes": 14090
+    },
+    {
+      "leagueId": "bundesliga",
+      "code": "S04",
+      "file": "/team-logos/bundesliga/s04.png",
+      "source": "https://raw.githubusercontent.com/luukhopman/football-logos/2a3978f0b4730645c205d855a4bda54c161183e9/logos/Germany%20-%20Bundesliga/FC%20Schalke%2004.png",
+      "bytes": 14704
+    },
+    {
+      "leagueId": "bundesliga",
+      "code": "SCF",
+      "file": "/team-logos/bundesliga/scf.png",
+      "source": "https://raw.githubusercontent.com/luukhopman/football-logos/2a3978f0b4730645c205d855a4bda54c161183e9/logos/Germany%20-%20Bundesliga/SC%20Freiburg.png",
+      "bytes": 18342
+    },
+    {
+      "leagueId": "bundesliga",
+      "code": "SCP",
+      "file": "/team-logos/bundesliga/scp.png",
+      "source": "https://raw.githubusercontent.com/luukhopman/football-logos/2a3978f0b4730645c205d855a4bda54c161183e9/logos/Germany%20-%20Bundesliga/SC%20Paderborn%2007.png",
+      "bytes": 10378
+    },
+    {
+      "leagueId": "bundesliga",
+      "code": "SGE",
+      "file": "/team-logos/bundesliga/sge.png",
+      "source": "https://raw.githubusercontent.com/luukhopman/football-logos/2a3978f0b4730645c205d855a4bda54c161183e9/logos/Germany%20-%20Bundesliga/Eintracht%20Frankfurt.png",
+      "bytes": 21922
+    },
+    {
+      "leagueId": "bundesliga",
+      "code": "SVW",
+      "file": "/team-logos/bundesliga/svw.png",
+      "source": "https://raw.githubusercontent.com/luukhopman/football-logos/2a3978f0b4730645c205d855a4bda54c161183e9/logos/Germany%20-%20Bundesliga/SV%20Werder%20Bremen.png",
+      "bytes": 20811
+    },
+    {
+      "leagueId": "bundesliga",
+      "code": "TSG",
+      "file": "/team-logos/bundesliga/tsg.png",
+      "source": "https://raw.githubusercontent.com/luukhopman/football-logos/2a3978f0b4730645c205d855a4bda54c161183e9/logos/Germany%20-%20Bundesliga/TSG%201899%20Hoffenheim.png",
+      "bytes": 24296
+    },
+    {
+      "leagueId": "bundesliga",
+      "code": "VFB",
+      "file": "/team-logos/bundesliga/vfb.png",
+      "source": "https://raw.githubusercontent.com/luukhopman/football-logos/2a3978f0b4730645c205d855a4bda54c161183e9/logos/Germany%20-%20Bundesliga/VfB%20Stuttgart.png",
+      "bytes": 26905
+    },
+    {
+      "leagueId": "laliga",
+      "code": "ALA",
+      "file": "/team-logos/laliga/ala.png",
+      "source": "https://raw.githubusercontent.com/luukhopman/football-logos/2a3978f0b4730645c205d855a4bda54c161183e9/logos/Spain%20-%20LaLiga/Deportivo%20Alav%C3%A9s.png",
+      "bytes": 31032
+    },
+    {
+      "leagueId": "laliga",
+      "code": "ATH",
+      "file": "/team-logos/laliga/ath.png",
+      "source": "https://raw.githubusercontent.com/luukhopman/football-logos/2a3978f0b4730645c205d855a4bda54c161183e9/logos/Spain%20-%20LaLiga/Athletic%20Bilbao.png",
+      "bytes": 17513
+    },
+    {
+      "leagueId": "laliga",
+      "code": "ATM",
+      "file": "/team-logos/laliga/atm.png",
+      "source": "https://raw.githubusercontent.com/luukhopman/football-logos/2a3978f0b4730645c205d855a4bda54c161183e9/logos/Spain%20-%20LaLiga/Atl%C3%A9tico%20de%20Madrid.png",
+      "bytes": 19328
+    },
+    {
+      "leagueId": "laliga",
+      "code": "BAR",
+      "file": "/team-logos/laliga/bar.png",
+      "source": "https://raw.githubusercontent.com/luukhopman/football-logos/2a3978f0b4730645c205d855a4bda54c161183e9/logos/Spain%20-%20LaLiga/FC%20Barcelona.png",
+      "bytes": 16512
+    },
+    {
+      "leagueId": "laliga",
+      "code": "BET",
+      "file": "/team-logos/laliga/bet.png",
+      "source": "https://raw.githubusercontent.com/luukhopman/football-logos/2a3978f0b4730645c205d855a4bda54c161183e9/logos/Spain%20-%20LaLiga/Real%20Betis%20Balompi%C3%A9.png",
+      "bytes": 13390
+    },
+    {
+      "leagueId": "laliga",
+      "code": "CEL",
+      "file": "/team-logos/laliga/cel.png",
+      "source": "https://raw.githubusercontent.com/luukhopman/football-logos/2a3978f0b4730645c205d855a4bda54c161183e9/logos/Spain%20-%20LaLiga/Celta%20de%20Vigo.png",
+      "bytes": 12178
+    },
+    {
+      "leagueId": "laliga",
+      "code": "DEP",
+      "file": "/team-logos/laliga/dep.png",
+      "source": "https://raw.githubusercontent.com/luukhopman/football-logos/2a3978f0b4730645c205d855a4bda54c161183e9/logos/Spain%20-%20LaLiga/Deportivo%20A%20Coru%C3%B1a.png",
+      "bytes": 20249
+    },
+    {
+      "leagueId": "laliga",
+      "code": "ELC",
+      "file": "/team-logos/laliga/elc.png",
+      "source": "https://raw.githubusercontent.com/luukhopman/football-logos/2a3978f0b4730645c205d855a4bda54c161183e9/logos/Spain%20-%20LaLiga/Elche%20CF.png",
+      "bytes": 25343
+    },
+    {
+      "leagueId": "laliga",
+      "code": "ESP",
+      "file": "/team-logos/laliga/esp.png",
+      "source": "https://raw.githubusercontent.com/luukhopman/football-logos/2a3978f0b4730645c205d855a4bda54c161183e9/logos/Spain%20-%20LaLiga/RCD%20Espanyol%20Barcelona.png",
+      "bytes": 29805
+    },
+    {
+      "leagueId": "laliga",
+      "code": "GET",
+      "file": "/team-logos/laliga/get.png",
+      "source": "https://raw.githubusercontent.com/luukhopman/football-logos/2a3978f0b4730645c205d855a4bda54c161183e9/logos/Spain%20-%20LaLiga/Getafe%20CF.png",
+      "bytes": 32235
+    },
+    {
+      "leagueId": "laliga",
+      "code": "LEV",
+      "file": "/team-logos/laliga/lev.png",
+      "source": "https://raw.githubusercontent.com/luukhopman/football-logos/2a3978f0b4730645c205d855a4bda54c161183e9/logos/Spain%20-%20LaLiga/Levante%20UD.png",
+      "bytes": 22298
+    },
+    {
+      "leagueId": "laliga",
+      "code": "MGA",
+      "file": "/team-logos/laliga/mga.png",
+      "source": "https://raw.githubusercontent.com/luukhopman/football-logos/2a3978f0b4730645c205d855a4bda54c161183e9/logos/Spain%20-%20LaLiga/M%C3%A1laga%20CF.png",
+      "bytes": 32183
+    },
+    {
+      "leagueId": "laliga",
+      "code": "OSA",
+      "file": "/team-logos/laliga/osa.png",
+      "source": "https://raw.githubusercontent.com/luukhopman/football-logos/2a3978f0b4730645c205d855a4bda54c161183e9/logos/Spain%20-%20LaLiga/CA%20Osasuna.png",
+      "bytes": 21727
+    },
+    {
+      "leagueId": "laliga",
+      "code": "RAC",
+      "file": "/team-logos/laliga/rac.png",
+      "source": "https://raw.githubusercontent.com/luukhopman/football-logos/2a3978f0b4730645c205d855a4bda54c161183e9/logos/Spain%20-%20LaLiga/Racing%20Santander.png",
+      "bytes": 34644
+    },
+    {
+      "leagueId": "laliga",
+      "code": "RAY",
+      "file": "/team-logos/laliga/ray.png",
+      "source": "https://raw.githubusercontent.com/luukhopman/football-logos/2a3978f0b4730645c205d855a4bda54c161183e9/logos/Spain%20-%20LaLiga/Rayo%20Vallecano.png",
+      "bytes": 21504
+    },
+    {
+      "leagueId": "laliga",
+      "code": "RMA",
+      "file": "/team-logos/laliga/rma.png",
+      "source": "https://raw.githubusercontent.com/luukhopman/football-logos/2a3978f0b4730645c205d855a4bda54c161183e9/logos/Spain%20-%20LaLiga/Real%20Madrid.png",
+      "bytes": 36650
+    },
+    {
+      "leagueId": "laliga",
+      "code": "RSO",
+      "file": "/team-logos/laliga/rso.png",
+      "source": "https://raw.githubusercontent.com/luukhopman/football-logos/2a3978f0b4730645c205d855a4bda54c161183e9/logos/Spain%20-%20LaLiga/Real%20Sociedad.png",
+      "bytes": 26395
+    },
+    {
+      "leagueId": "laliga",
+      "code": "SEV",
+      "file": "/team-logos/laliga/sev.png",
+      "source": "https://raw.githubusercontent.com/luukhopman/football-logos/2a3978f0b4730645c205d855a4bda54c161183e9/logos/Spain%20-%20LaLiga/Sevilla%20FC.png",
+      "bytes": 27453
+    },
+    {
+      "leagueId": "laliga",
+      "code": "VAL",
+      "file": "/team-logos/laliga/val.png",
+      "source": "https://raw.githubusercontent.com/luukhopman/football-logos/2a3978f0b4730645c205d855a4bda54c161183e9/logos/Spain%20-%20LaLiga/Valencia%20CF.png",
+      "bytes": 21439
+    },
+    {
+      "leagueId": "laliga",
+      "code": "VIL",
+      "file": "/team-logos/laliga/vil.png",
+      "source": "https://raw.githubusercontent.com/luukhopman/football-logos/2a3978f0b4730645c205d855a4bda54c161183e9/logos/Spain%20-%20LaLiga/Villarreal%20CF.png",
+      "bytes": 30704
+    },
+    {
+      "leagueId": "premier-league",
+      "code": "ARS",
+      "file": "/team-logos/premier-league/ars.png",
+      "source": "https://raw.githubusercontent.com/luukhopman/football-logos/2a3978f0b4730645c205d855a4bda54c161183e9/logos/England%20-%20Premier%20League/Arsenal%20FC.png",
+      "bytes": 28744
+    },
+    {
+      "leagueId": "premier-league",
+      "code": "AVL",
+      "file": "/team-logos/premier-league/avl.png",
+      "source": "https://raw.githubusercontent.com/luukhopman/football-logos/2a3978f0b4730645c205d855a4bda54c161183e9/logos/England%20-%20Premier%20League/Aston%20Villa.png",
+      "bytes": 29845
+    },
+    {
+      "leagueId": "premier-league",
+      "code": "BHA",
+      "file": "/team-logos/premier-league/bha.png",
+      "source": "https://raw.githubusercontent.com/luukhopman/football-logos/2a3978f0b4730645c205d855a4bda54c161183e9/logos/England%20-%20Premier%20League/Brighton%20%26%20Hove%20Albion.png",
+      "bytes": 24561
+    },
+    {
+      "leagueId": "premier-league",
+      "code": "BOU",
+      "file": "/team-logos/premier-league/bou.png",
+      "source": "https://raw.githubusercontent.com/luukhopman/football-logos/2a3978f0b4730645c205d855a4bda54c161183e9/logos/England%20-%20Premier%20League/AFC%20Bournemouth.png",
+      "bytes": 26146
+    },
+    {
+      "leagueId": "premier-league",
+      "code": "BRE",
+      "file": "/team-logos/premier-league/bre.png",
+      "source": "https://raw.githubusercontent.com/luukhopman/football-logos/2a3978f0b4730645c205d855a4bda54c161183e9/logos/England%20-%20Premier%20League/Brentford%20FC.png",
+      "bytes": 29398
+    },
+    {
+      "leagueId": "premier-league",
+      "code": "CHE",
+      "file": "/team-logos/premier-league/che.png",
+      "source": "https://raw.githubusercontent.com/luukhopman/football-logos/2a3978f0b4730645c205d855a4bda54c161183e9/logos/England%20-%20Premier%20League/Chelsea%20FC.png",
+      "bytes": 25350
+    },
+    {
+      "leagueId": "premier-league",
+      "code": "COV",
+      "file": "/team-logos/premier-league/cov.png",
+      "source": "https://raw.githubusercontent.com/luukhopman/football-logos/2a3978f0b4730645c205d855a4bda54c161183e9/logos/England%20-%20Premier%20League/Coventry%20City.png",
+      "bytes": 46471
+    },
+    {
+      "leagueId": "premier-league",
+      "code": "CRY",
+      "file": "/team-logos/premier-league/cry.png",
+      "source": "https://raw.githubusercontent.com/luukhopman/football-logos/2a3978f0b4730645c205d855a4bda54c161183e9/logos/England%20-%20Premier%20League/Crystal%20Palace.png",
+      "bytes": 34635
+    },
+    {
+      "leagueId": "premier-league",
+      "code": "EVE",
+      "file": "/team-logos/premier-league/eve.png",
+      "source": "https://raw.githubusercontent.com/luukhopman/football-logos/2a3978f0b4730645c205d855a4bda54c161183e9/logos/England%20-%20Premier%20League/Everton%20FC.png",
+      "bytes": 28489
+    },
+    {
+      "leagueId": "premier-league",
+      "code": "FUL",
+      "file": "/team-logos/premier-league/ful.png",
+      "source": "https://raw.githubusercontent.com/luukhopman/football-logos/2a3978f0b4730645c205d855a4bda54c161183e9/logos/England%20-%20Premier%20League/Fulham%20FC.png",
+      "bytes": 12525
+    },
+    {
+      "leagueId": "premier-league",
+      "code": "HUL",
+      "file": "/team-logos/premier-league/hul.png",
+      "source": "https://raw.githubusercontent.com/luukhopman/football-logos/2a3978f0b4730645c205d855a4bda54c161183e9/logos/England%20-%20Premier%20League/Hull%20City.png",
+      "bytes": 36190
+    },
+    {
+      "leagueId": "premier-league",
+      "code": "IPS",
+      "file": "/team-logos/premier-league/ips.png",
+      "source": "https://raw.githubusercontent.com/luukhopman/football-logos/2a3978f0b4730645c205d855a4bda54c161183e9/logos/England%20-%20Premier%20League/Ipswich%20Town.png",
+      "bytes": 29373
+    },
+    {
+      "leagueId": "premier-league",
+      "code": "LEE",
+      "file": "/team-logos/premier-league/lee.png",
+      "source": "https://raw.githubusercontent.com/luukhopman/football-logos/2a3978f0b4730645c205d855a4bda54c161183e9/logos/England%20-%20Premier%20League/Leeds%20United.png",
+      "bytes": 29564
+    },
+    {
+      "leagueId": "premier-league",
+      "code": "LIV",
+      "file": "/team-logos/premier-league/liv.png",
+      "source": "https://raw.githubusercontent.com/luukhopman/football-logos/2a3978f0b4730645c205d855a4bda54c161183e9/logos/England%20-%20Premier%20League/Liverpool%20FC.png",
+      "bytes": 15244
+    },
+    {
+      "leagueId": "premier-league",
+      "code": "MCI",
+      "file": "/team-logos/premier-league/mci.png",
+      "source": "https://raw.githubusercontent.com/luukhopman/football-logos/2a3978f0b4730645c205d855a4bda54c161183e9/logos/England%20-%20Premier%20League/Manchester%20City.png",
+      "bytes": 30312
+    },
+    {
+      "leagueId": "premier-league",
+      "code": "MUN",
+      "file": "/team-logos/premier-league/mun.png",
+      "source": "https://raw.githubusercontent.com/luukhopman/football-logos/2a3978f0b4730645c205d855a4bda54c161183e9/logos/England%20-%20Premier%20League/Manchester%20United.png",
+      "bytes": 26455
+    },
+    {
+      "leagueId": "premier-league",
+      "code": "NEW",
+      "file": "/team-logos/premier-league/new.png",
+      "source": "https://raw.githubusercontent.com/luukhopman/football-logos/2a3978f0b4730645c205d855a4bda54c161183e9/logos/England%20-%20Premier%20League/Newcastle%20United.png",
+      "bytes": 30961
+    },
+    {
+      "leagueId": "premier-league",
+      "code": "NFO",
+      "file": "/team-logos/premier-league/nfo.png",
+      "source": "https://raw.githubusercontent.com/luukhopman/football-logos/2a3978f0b4730645c205d855a4bda54c161183e9/logos/England%20-%20Premier%20League/Nottingham%20Forest.png",
+      "bytes": 9995
+    },
+    {
+      "leagueId": "premier-league",
+      "code": "SUN",
+      "file": "/team-logos/premier-league/sun.png",
+      "source": "https://raw.githubusercontent.com/luukhopman/football-logos/2a3978f0b4730645c205d855a4bda54c161183e9/logos/England%20-%20Premier%20League/Sunderland%20AFC.png",
+      "bytes": 20952
+    },
+    {
+      "leagueId": "premier-league",
+      "code": "TOT",
+      "file": "/team-logos/premier-league/tot.png",
+      "source": "https://raw.githubusercontent.com/luukhopman/football-logos/2a3978f0b4730645c205d855a4bda54c161183e9/logos/England%20-%20Premier%20League/Tottenham%20Hotspur.png",
+      "bytes": 7692
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+# Sources des scores et classements
+
+- Le résultat **FC Barcelona 6–1 Deportivo Alavés**, joué le 31 octobre 2026, est confirmé par le [compte rendu officiel du FC Barcelona](https://www.fcbarcelona.com/en/football/first-team/news/4602177/fc-barcelona-6-1-alaves-thats-more-like-it).
+- Les classements actualisables proviennent des flux publics de standings ESPN pour [La Liga](https://site.api.espn.com/apis/v2/sports/soccer/esp.1/standings?season=2026), la [Premier League](https://site.api.espn.com/apis/v2/sports/soccer/eng.1/standings?season=2026) et la [Bundesliga](https://site.api.espn.com/apis/v2/sports/soccer/ger.1/standings?season=2026). Le site les relit automatiquement chaque minute et conserve l’instantané local si la source ne répond pas.
+- Au 1er novembre 2026, le flux de standings confirmait le FC Barcelona à **30 points après 11 matchs**, avec une différence de buts de **+34**. L’instantané de secours de Premier League inclut également les résultats terminés du 31 octobre.
+- Les logos ne sont pas chargés depuis une API : les 58 PNG sont stockés dans `client/public/team-logos/`. Leur dépôt GitHub et leur révision sont documentés dans [TEAM_LOGOS_SOURCE.md](./TEAM_LOGOS_SOURCE.md) et dans le manifeste d’images.
